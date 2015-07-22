@@ -1,0 +1,19 @@
+name: dartnow_cli
+version: 0.0.1
+description: Dart Now command line interface
+dependencies:
+  github: any
+  yaml: any
+  pubspec: any
+  yamlicious: any
+  args: any
+  prompt: '>=0.1.7 <0.2.0'
+  http:
+    git:
+      url: ../../packages/http
+      ref: 'patch'
+  github:
+    path: ../../packages/github.dart
+  test: '>=0.12.3+7 <0.13.0'
+  analyzer: '>=0.25.2 <0.26.0'
+  path: '>=1.3.6 <2.0.0'
