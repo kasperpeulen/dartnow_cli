@@ -28,8 +28,9 @@
   * update the pubspec (add gist link)
   * update the gist description
 * update_user [username]
-  * get the github user info
-  * get the starred gists
+  * get the github user info (name, id, email, avatar url)
+  * get the number of contributed gist to dartnow
+  * the number of stars of those gists
   * add the info to firebase
 * checkout_gist [id]
   * clone a gist to `checkout_gist` dir
