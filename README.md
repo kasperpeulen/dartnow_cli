@@ -44,3 +44,4 @@
   * get the number of contributed gist to dartnow
   * the number of stars of those gists
   * add the info to firebase
+* delete_gist
