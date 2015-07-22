@@ -12,7 +12,7 @@
 
 * create
   * create a new gist from `playground` dir
-  * command add_snippet
+  * command `add_snippet`
   * clone the updated gist to `created_gists`
 * update [dir]
   * commit changes from git dir
