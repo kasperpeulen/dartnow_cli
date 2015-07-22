@@ -34,11 +34,11 @@
 ### secret code
 * update_new_snippets
   * fetch all new ids
-  * command update_id [id]
-  * command update_user [snippet.username]
-* update_id [id]
+  * command `update` [id]
+* update [id]
   * calculate snippet model
   * add info to firebase
+  * command update_user [snippet.username]
 * update_user [username]
   * get the github user info (name, id, email, avatar url)
   * get the number of contributed gist to dartnow
