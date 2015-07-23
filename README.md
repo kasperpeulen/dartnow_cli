@@ -21,13 +21,13 @@
   * command `add_snippet`
   * pull changes back locally
 * add_snippet [id]
-  * command `update_gist`
+  * command `update_gist` ✓
   * add id to firebase (/new_ids.json)
   * (for me only) command `update_snippet_secret`
-* update_gist [id]
-  * update the readme from the gist
-  * update the pubspec (add gist link)
-  * update the gist description
+* update_gist [id] ✓
+  * update the readme from the gist ✓
+  * update the pubspec (add gist link) ✓
+  * update the gist description ✓
 * checkout_gist [id]
   * clone a gist to `checkout_gist` dir
 
