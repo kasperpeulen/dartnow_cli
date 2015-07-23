@@ -10,19 +10,26 @@
   
 ### commands:
 
+* init
+  * create a dartnow.json with username/password
+  * create a playground dir
+  * command `reset_playground`
+* reset_playground
+  * reset the playground
 * create
   * create a new gist from `playground` dir ✓
-  * command `add_snippet`
+  * command `add_snippet` ✓
   * clone the updated gist to `created_gists`
+  * command `reset_playground`
 * update [dir]
   * pull changes (just to be sure) 
   * commit changes from git dir
   * push changes from git dir
   * command `add_snippet`
   * pull changes back locally
-* add_snippet [id]
+* add_snippet [id] ✓
   * command `update_gist` ✓
-  * add id to firebase (/new_ids.json)
+  * add id to firebase (/new_ids.json) ✓
   * (for me only) command `update_snippet_secret`
 * update_gist [id] ✓
   * update the readme from the gist ✓
