@@ -41,11 +41,11 @@
 * update_new_snippets
   * fetch all new ids
   * command `update` [id]
-* update [id]
-  * calculate snippet model
-  * add info to firebase
-  * command update_user [snippet.username]
-* update_user [username]
+* update_secret [id] ✓
+  * calculate snippet model ✓
+  * add info to firebase ✓
+  * command update_user [snippet.username] (later)
+* update_user [username] (later)
   * get the github user info (name, id, email, avatar url)
   * get the number of contributed gist to dartnow
   * the number of stars of those gists
