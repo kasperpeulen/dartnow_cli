@@ -10,13 +10,13 @@
   
 ### commands:
 
-* init
-  * create a dartnow.json with username/password
-  * create a playground dir
+* init ✓
+  * create a dartnow.json with username/password ✓
+  * create a playground dir 
   * command `reset_playground`
 * reset_playground
   * reset the playground
-* create
+* create ✓
   * create a new gist from `playground` dir ✓
   * command `add_snippet` ✓
   * clone the updated gist to `created_gists`
