@@ -44,12 +44,12 @@
 * update_secret [id] ✓
   * calculate snippet model ✓
   * add info to firebase ✓
-  * command update_user [snippet.username] (later)
+  * command update_user [snippet.username]
   * delete from new.json ✓
-* update_user [username] (later)
-  * get the github user info (name, id, email, avatar url)
-  * get the number of contributed gist to dartnow
-  * the number of stars of those gists
-  * add the info to firebase
+* update_user [username] (later) ✓
+  * get the github user info (name, id, email, avatar url) ✓
+  * get the number of contributed gist to dartnow ✓
+  * the number of stars of those gists (later)
+  * add the info to firebase ✓
 * delete_new_gist ✓
-* delete_gist
+* delete_gist ✓
