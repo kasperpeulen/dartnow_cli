@@ -12,15 +12,14 @@
 
 * init ✓
   * create a dartnow.json with username/password ✓
-  * create a playground dir 
-  * command `reset_playground`
-* reset_playground
-  * reset the playground
+  * command `reset_playground` ✓
+* reset_playground ✓
+  * reset the playground ✓
 * create ✓
   * create a new gist from `playground` dir ✓
   * command `add_snippet` ✓
   * clone the updated gist to `created_gists`
-  * command `reset_playground`
+  * command `reset_playground` ✓
 * update [dir]
   * pull changes (just to be sure) 
   * commit changes from git dir
