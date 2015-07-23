@@ -18,7 +18,7 @@
 * create ✓
   * create a new gist from `playground` dir ✓
   * command `add_snippet` ✓
-  * clone the updated gist to `created_gists`
+  * clone the updated gist to `created_gists` ✓
   * command `reset_playground` ✓
 * update [dir]
   * pull changes (just to be sure) 
