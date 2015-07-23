@@ -29,7 +29,7 @@
 * add_snippet [id] ✓
   * command `update_gist` ✓
   * add id to firebase (/new_ids.json) ✓
-  * (for me only) command `update_snippet_secret`
+  * (for me only) command `update_snippet_secret` ✓
 * update_gist [id] ✓
   * update the readme from the gist ✓
   * update the pubspec (add gist link) ✓
