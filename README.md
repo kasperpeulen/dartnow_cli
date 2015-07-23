@@ -20,13 +20,13 @@
   * command `add_snippet` ✓
   * clone the updated gist to `created_gists` ✓
   * command `reset_playground` ✓
-* update [dir]
-  * pull changes (just to be sure) 
-  * commit changes from git dir
-  * push changes from git dir
-  * command `add_snippet`
-  * pull changes back locally
-* add_snippet [id] ✓
+* push [dir] ✓
+  * pull changes (just to be sure)  ✓
+  * commit changes from git dir ✓
+  * push changes from git dir ✓
+  * command `add` ✓
+  * pull changes back locally ✓
+* add [id] ✓
   * command `update_gist` ✓
   * add id to firebase (/new_ids.json) ✓
   * (for me only) command `update_snippet_secret` ✓
